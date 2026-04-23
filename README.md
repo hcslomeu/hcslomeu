@@ -18,6 +18,7 @@
 
 ```console
 humberto@york:~$ whoami
+
 ```
 
 ```yaml
@@ -32,6 +33,7 @@ focus:     agentic workflows · RAG pipelines · automation
 
 ```console
 humberto@york:~$ ./contact.sh
+
 ```
 
 <p align="center">
@@ -98,6 +100,7 @@ humberto@york:~$ ls -la stack/
 
 ```console
 humberto@york:~$ cat projects.json
+
 ```
 
 ```json
@@ -124,22 +127,3 @@ humberto@york:~$ cat projects.json
 ```
 
 <br>
-
-```console
-humberto@york:~$ git log --oneline --stat
-```
-
-<p align="center">
-  <a href="https://github.com/hcslomeu">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hcslomeu&show_icons=true&theme=vue-dark&hide_border=true&bg_color=1E1E1C&title_color=D97757&icon_color=9FA678&text_color=E8E3D8">
-  </a>
-  <a href="https://github.com/hcslomeu">
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcslomeu&layout=compact&theme=vue-dark&hide_border=true&bg_color=1E1E1C&title_color=D97757&text_color=E8E3D8">
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <sub><code>[ END OF FILE ]&nbsp;&nbsp;·&nbsp;&nbsp;last updated · 2026.04&nbsp;&nbsp;·&nbsp;&nbsp;README.md + SVG</code></sub>
-</p>
