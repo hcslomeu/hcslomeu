@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 100" width="820" height="100" role="img" aria-label="Humberto Lomeu — AI Engineer" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, &#39;Helvetica Neue&#39;, Helvetica, Arial, sans-serif">
+  <text x="16" y="40" fill="#1F2328" font-size="30" font-weight="700" letter-spacing="-0.6">Humberto Lomeu</text>
+  <text x="16" y="66" fill="#4B5563" font-size="15" font-weight="500">AI Engineer · LLM Systems · RAG &amp; Agentic AI</text>
+  <text x="16" y="88" fill="#656D76" font-size="13" font-weight="400" font-family="ui-monospace, &#39;SF Mono&#39;, &#39;JetBrains Mono&#39;, Menlo, Consolas, monospace">~/automation-for-your-business</text>
+  <g transform="translate(700,42)">
+    <circle cx="0" cy="0" r="5" fill="#16A34A"></circle>
+    <circle cx="0" cy="0" r="5" fill="#16A34A" opacity="0.4">
+      
+      
+    </circle>
+    <text x="14" y="4" fill="#4B5563" font-size="11" font-weight="600" letter-spacing="0.5">OPEN TO WORK</text>
+  </g>
+</svg>

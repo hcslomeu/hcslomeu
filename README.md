@@ -1,87 +1,145 @@
-<h1 align="center">Humberto Lomeu</h1>
-
-<p align="center"><em>AI Engineer · LLM Systems · RAG & Agentic Architectures</em></p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/humbertolomeu/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hcslomeu@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/hcslomeu"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=hcslomeu&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
-
----
-
-### About
-
-I build production AI systems — RAG pipelines, agentic workflows, and the
-infrastructure around them. Currently based in York, UK, and open to
-**AI Engineer** and **Senior AI Engineer** roles (permanent or inside IR35).
-
-Nine years across financial services consulting (EY), AI/ML delivery at a
-Brazilian AI startup (Kunumi), and deep learning research at COPPETEC in
-partnership with TotalEnergies. MSc in Computational Systems (COPPE/UFRJ),
-with a dissertation on ConvLSTM and PredRNN for short-term offshore wind
-speed forecasting.
-
-I care about the parts of AI engineering that rarely make the demo:
-retrieval quality, evaluation harnesses, cost/latency tradeoffs, and
-keeping agentic systems legible when they misbehave.
-
----
-
-### Tech Stack
-
-**LLM & Agents**
-
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-
-**Backend**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Retrieval**
-
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Data & Infra**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694A?style=for-the-badge&logo=dbt&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-### Portfolio Projects
+<!--
+═══════════════════════════════════════════════════════════════════════════════
+  Humberto Lomeu · github.com/hcslomeu
+  claude-code inspired profile README
+  Assets live in /readme-assets/ — GitHub renders them via raw URLs below.
+═══════════════════════════════════════════════════════════════════════════════
+-->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=500&color=A0A0A0&center=true&vCenter=true&width=520&lines=Polishing+public+repos...;Coming+soon..." alt="Coming soon" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hcslomeu/hcslomeu/main/readme-assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hcslomeu/hcslomeu/main/readme-assets/hero-light.svg">
+    <img alt="Humberto Lomeu — AI Engineer" src="https://raw.githubusercontent.com/hcslomeu/hcslomeu/main/readme-assets/hero-dark.svg" width="820">
+  </picture>
 </p>
+
+<br>
+
+```console
+humberto@york:~$ whoami
+```
+
+```yaml
+name:      Humberto Lomeu
+role:      AI Engineer
+location:  York, United Kingdom
+status:    # permanent, contract, freelance
+focus:     agentic workflows · RAG pipelines · automation
+```
+
+<br>
+
+```console
+humberto@york:~$ ./contact.sh
+```
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649437-0b1773e7-4a7d-4dbb-ab63-8a5343085f2b.gif" width="60" alt="Loading" />
+  <a href="https://github.com/hcslomeu"><img alt="GitHub" src="https://img.shields.io/badge/github-hcslomeu-1E1E1C?style=flat&logo=github&logoColor=E8E3D8&labelColor=1E1E1C"></a>
+  <a href="https://www.linkedin.com/in/humbertolomeu"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-in%2Fhumbertolomeu-0A66C2?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2"></a>
+  <a href="mailto:hcslomeu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-hcslomeu%40gmail.com-D97757?style=flat&logo=gmail&logoColor=FFFFFF&labelColor=26241F"></a>
 </p>
 
----
+<br>
 
-### Background
+```console
+humberto@york:~$ cat about.md
+```
 
-- **MSc, Computational Systems** — COPPE/UFRJ (deep learning specialisation)
-- **Deep Learning Researcher** — COPPETEC Foundation / TotalEnergies collaboration
-- **AI/ML Management** — Kunumi (AI startup, Brazil)
-- **Consultant** — EY, financial services
+> I build production AI systems — RAG pipelines, agentic workflows, and the
+> infrastructure around them. Currently based in **York, UK**, and open to
+> **AI Engineer** and **Senior AI Engineer** roles (permanent or inside IR35).
+>
+> Nine years across financial services consulting at **EY**, AI/ML delivery at a
+> Brazilian AI startup (**Kunumi**), and deep learning research at **COPPETEC**
+> in partnership with **TotalEnergies**. MSc in Computational Systems
+> (COPPE/UFRJ), with a dissertation on ConvLSTM and PredRNN for short-term
+> offshore wind speed forecasting.
+>
+> I care about the parts of AI engineering that rarely make the demo:
+> retrieval quality, evaluation harnesses, cost/latency tradeoffs, and keeping
+> agentic systems legible when they misbehave.
 
----
+<br>
 
-### Currently
+```console
+humberto@york:~$ ls -la stack/
+```
 
-Interviewing for AI Engineer roles in the UK. Remote-first, UK-based.
+<table>
+<tr><td><code>llm-agents/</code></td><td>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=E8E3D8">
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=E8E3D8">
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=E8E3D8">
+<img src="https://img.shields.io/badge/Anthropic-1E1E1C?style=flat&logo=anthropic&logoColor=D97757">
+</td></tr>
+<tr><td><code>backend/</code></td><td>
+<img src="https://img.shields.io/badge/Python-2B5B84?style=flat&logo=python&logoColor=FFD43B">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=E8E3D8">
+<img src="https://img.shields.io/badge/Pydantic-D33847?style=flat&logo=pydantic&logoColor=E8E3D8">
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=E8E3D8">
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=1E1E1C">
+</td></tr>
+<tr><td><code>retrieval/</code></td><td>
+<img src="https://img.shields.io/badge/Qdrant-DC382D?style=flat&logo=qdrant&logoColor=E8E3D8">
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=E8E3D8">
+<img src="https://img.shields.io/badge/Pinecone-1C1C1C?style=flat&logo=pinecone&logoColor=E8E3D8">
+</td></tr>
+<tr><td><code>data-infra/</code></td><td>
+<img src="https://img.shields.io/badge/SQL-5A67D8?style=flat&logo=postgresql&logoColor=E8E3D8">
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=E8E3D8">
+<img src="https://img.shields.io/badge/dbt-FF694A?style=flat&logo=dbt&logoColor=E8E3D8">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=E8E3D8">
+<img src="https://img.shields.io/badge/AWS-26241F?style=flat&logo=amazonwebservices&logoColor=FF9900">
+</td></tr>
+</table>
+
+<br>
+
+```console
+humberto@york:~$ cat projects.json
+```
+
+```json
+[
+  {
+    "name":  "agentic-rag-harness",
+    "desc":  "eval framework for multi-step retrieval agents",
+    "stack": ["python", "langgraph", "qdrant"],
+    "url":   "github.com/hcslomeu/agentic-rag-harness"
+  },
+  {
+    "name":  "pgvector-playground",
+    "desc":  "hybrid search on postgres — chunking, rerankers, cost curves",
+    "stack": ["postgres", "fastapi"],
+    "url":   "github.com/hcslomeu/pgvector-playground"
+  },
+  {
+    "name":  "eval-studio",
+    "desc":  "trace viewer for agentic runs — timeline, tool calls, token cost",
+    "stack": ["typescript"],
+    "url":   "github.com/hcslomeu/eval-studio"
+  }
+]
+```
+
+<br>
+
+```console
+humberto@york:~$ git log --oneline --stat
+```
+
+<p align="center">
+  <a href="https://github.com/hcslomeu">
+    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hcslomeu&show_icons=true&theme=vue-dark&hide_border=true&bg_color=1E1E1C&title_color=D97757&icon_color=9FA678&text_color=E8E3D8">
+  </a>
+  <a href="https://github.com/hcslomeu">
+    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcslomeu&layout=compact&theme=vue-dark&hide_border=true&bg_color=1E1E1C&title_color=D97757&text_color=E8E3D8">
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <sub><code>[ END OF FILE ]&nbsp;&nbsp;·&nbsp;&nbsp;last updated · 2026.04&nbsp;&nbsp;·&nbsp;&nbsp;README.md + SVG</code></sub>
+</p>
