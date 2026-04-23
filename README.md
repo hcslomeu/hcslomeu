@@ -6,13 +6,13 @@
 ═══════════════════════════════════════════════════════════════════════════════
 -->
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hcslomeu/hcslomeu/main/readme-assets/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hcslomeu/hcslomeu/main/readme-assets/hero-light.svg">
     <img alt="Humberto Lomeu — AI Engineer" src="https://raw.githubusercontent.com/hcslomeu/hcslomeu/main/readme-assets/hero-dark.svg" width="820">
   </picture>
-</p>
+</p> -->
 
 <br>
 
