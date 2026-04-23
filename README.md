@@ -16,23 +16,17 @@
 
 <br>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hcslomeu/hcslomeu/main/readme-assets/cell-whoami-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hcslomeu/hcslomeu/main/readme-assets/cell-whoami-light.svg">
-    <img alt="$ whoami" src="https://raw.githubusercontent.com/hcslomeu/hcslomeu/main/readme-assets/cell-whoami-dark.svg" width="820">
-  </picture>
-</p>
+<pre>humberto@york:~$ whoami</pre>
+
+<pre>name:      Humberto Lomeu
+role:      AI Engineer
+location:  York, United Kingdom
+status:    # permanent, contract, freelance
+focus:     agentic workflows · RAG pipelines · automation</pre>
 
 <br>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hcslomeu/hcslomeu/main/readme-assets/cell-contact-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hcslomeu/hcslomeu/main/readme-assets/cell-contact-light.svg">
-    <img alt="$ ./contact.sh" src="https://raw.githubusercontent.com/hcslomeu/hcslomeu/main/readme-assets/cell-contact-dark.svg" width="820">
-  </picture>
-</p>
+<pre>humberto@york:~$ ./contact.sh</pre>
 
 <p align="center">
   <a href="https://github.com/hcslomeu"><img alt="GitHub" src="https://img.shields.io/badge/github-hcslomeu-1E1E1C?style=flat&logo=github&logoColor=E8E3D8&labelColor=1E1E1C"></a>
@@ -42,13 +36,7 @@
 
 <br>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hcslomeu/hcslomeu/main/readme-assets/cell-about-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hcslomeu/hcslomeu/main/readme-assets/cell-about-light.svg">
-    <img alt="$ cat about.md" src="https://raw.githubusercontent.com/hcslomeu/hcslomeu/main/readme-assets/cell-about-dark.svg" width="820">
-  </picture>
-</p>
+<pre>humberto@york:~$ cat about.md</pre>
 
 > I build production AI systems — RAG pipelines, agentic workflows, and the
 > infrastructure around them. Currently based in **York, UK**, and open to
@@ -66,13 +54,7 @@
 
 <br>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hcslomeu/hcslomeu/main/readme-assets/cell-stack-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hcslomeu/hcslomeu/main/readme-assets/cell-stack-light.svg">
-    <img alt="$ ls -la stack/" src="https://raw.githubusercontent.com/hcslomeu/hcslomeu/main/readme-assets/cell-stack-dark.svg" width="820">
-  </picture>
-</p>
+<pre>humberto@york:~$ ls -la stack/</pre>
 
 <table>
 <tr><td><code>llm-agents/</code></td><td>
@@ -104,23 +86,32 @@
 
 <br>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hcslomeu/hcslomeu/main/readme-assets/cell-projects-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hcslomeu/hcslomeu/main/readme-assets/cell-projects-light.svg">
-    <img alt="$ cat projects.json" src="https://raw.githubusercontent.com/hcslomeu/hcslomeu/main/readme-assets/cell-projects-dark.svg" width="820">
-  </picture>
-</p>
+<pre>humberto@york:~$ cat projects.json</pre>
+
+<pre>[
+  {
+    "name":  "agentic-rag-harness",
+    "desc":  "eval framework for multi-step retrieval agents",
+    "stack": ["python", "langgraph", "qdrant"],
+    "url":   "github.com/hcslomeu/agentic-rag-harness"
+  },
+  {
+    "name":  "pgvector-playground",
+    "desc":  "hybrid search on postgres — chunking, rerankers, cost curves",
+    "stack": ["postgres", "fastapi"],
+    "url":   "github.com/hcslomeu/pgvector-playground"
+  },
+  {
+    "name":  "eval-studio",
+    "desc":  "trace viewer for agentic runs — timeline, tool calls, token cost",
+    "stack": ["typescript"],
+    "url":   "github.com/hcslomeu/eval-studio"
+  }
+]</pre>
 
 <br>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hcslomeu/hcslomeu/main/readme-assets/cell-gitlog-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hcslomeu/hcslomeu/main/readme-assets/cell-gitlog-light.svg">
-    <img alt="$ git log --oneline --stat" src="https://raw.githubusercontent.com/hcslomeu/hcslomeu/main/readme-assets/cell-gitlog-dark.svg" width="820">
-  </picture>
-</p>
+<pre>humberto@york:~$ git log --oneline --stat</pre>
 
 <p align="center">
   <a href="https://github.com/hcslomeu">
