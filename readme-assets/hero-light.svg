@@ -4,7 +4,7 @@
   <text x="16" y="88" fill="#656D76" font-size="13" font-weight="400" font-family="ui-monospace, &#39;SF Mono&#39;, &#39;JetBrains Mono&#39;, Menlo, Consolas, monospace">~/automation-for-your-business</text>
   <g transform="translate(700,42)">
     <circle cx="0" cy="0" r="5" fill="#16A34A"></circle>
-    <circle cx="0" cy="0" r="5" fill="#16A34A" opacity="0.4">
+    <circle cx="0" cy="0" r="5" fill="#16A34A" opacity="0.5">
       
       
     </circle>
