@@ -36,11 +36,16 @@ humberto@york:~$ ./contact.sh
 
 ```
 
-<p align="center">
+```yaml
+email:      hcslomeu@gmail.com
+
+```
+
+<!-- <p align="center">
   <a href="https://github.com/hcslomeu"><img alt="GitHub" src="https://img.shields.io/badge/github-hcslomeu-1E1E1C?style=flat&logo=github&logoColor=E8E3D8&labelColor=1E1E1C"></a>
   <a href="https://www.linkedin.com/in/humbertolomeu"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-in%2Fhumbertolomeu-0A66C2?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=0A66C2"></a>
   <a href="mailto:hcslomeu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/email-hcslomeu%40gmail.com-D97757?style=flat&logo=gmail&logoColor=FFFFFF&labelColor=26241F"></a>
-</p>
+</p> -->
 
 <br>
 
