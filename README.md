@@ -16,17 +16,25 @@
 
 <br>
 
-<pre>humberto@york:~$ whoami</pre>
+```console
+humberto@york:~$ whoami
 
-<pre>name:      Humberto Lomeu
+```
+
+```yaml
+name:      Humberto Lomeu
 role:      AI Engineer
 location:  York, United Kingdom
 status:    # permanent, contract, freelance
-focus:     agentic workflows · RAG pipelines · automation</pre>
+focus:     agentic workflows · RAG pipelines · automation
+```
 
 <br>
 
-<pre>humberto@york:~$ ./contact.sh</pre>
+```console
+humberto@york:~$ ./contact.sh
+
+```
 
 <p align="center">
   <a href="https://github.com/hcslomeu"><img alt="GitHub" src="https://img.shields.io/badge/github-hcslomeu-1E1E1C?style=flat&logo=github&logoColor=E8E3D8&labelColor=1E1E1C"></a>
@@ -36,7 +44,9 @@ focus:     agentic workflows · RAG pipelines · automation</pre>
 
 <br>
 
-<pre>humberto@york:~$ cat about.md</pre>
+```console
+humberto@york:~$ cat about.md
+```
 
 > I build production AI systems — RAG pipelines, agentic workflows, and the
 > infrastructure around them. Currently based in **York, UK**, and open to
@@ -54,7 +64,9 @@ focus:     agentic workflows · RAG pipelines · automation</pre>
 
 <br>
 
-<pre>humberto@york:~$ ls -la stack/</pre>
+```console
+humberto@york:~$ ls -la stack/
+```
 
 <table>
 <tr><td><code>llm-agents/</code></td><td>
@@ -86,9 +98,13 @@ focus:     agentic workflows · RAG pipelines · automation</pre>
 
 <br>
 
-<pre>humberto@york:~$ cat projects.json</pre>
+```console
+humberto@york:~$ cat projects.json
 
-<pre>[
+```
+
+```json
+[
   {
     "name":  "agentic-rag-harness",
     "desc":  "eval framework for multi-step retrieval agents",
@@ -107,23 +123,7 @@ focus:     agentic workflows · RAG pipelines · automation</pre>
     "stack": ["typescript"],
     "url":   "github.com/hcslomeu/eval-studio"
   }
-]</pre>
+]
+```
 
 <br>
-
-<pre>humberto@york:~$ git log --oneline --stat</pre>
-
-<p align="center">
-  <a href="https://github.com/hcslomeu">
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=hcslomeu&show_icons=true&theme=vue-dark&hide_border=true&bg_color=1E1E1C&title_color=D97757&icon_color=9FA678&text_color=E8E3D8">
-  </a>
-  <a href="https://github.com/hcslomeu">
-    <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcslomeu&layout=compact&theme=vue-dark&hide_border=true&bg_color=1E1E1C&title_color=D97757&text_color=E8E3D8">
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <sub><code>[ END OF FILE ]&nbsp;&nbsp;·&nbsp;&nbsp;last updated · 2026.04&nbsp;&nbsp;·&nbsp;&nbsp;README.md + SVG</code></sub>
-</p>
